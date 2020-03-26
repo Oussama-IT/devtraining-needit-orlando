@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_request_type</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-03-25 12:55:42</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>06f8ef47dbf67f049df22f17d49619c2</instance_id>
+        <instance_name>dev89256</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_request_type" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_request_type</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-03-25 12:55:42</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1828161538</payload_hash>
+        <record_name>x_58872_needit_needit.u_request_type</record_name>
+        <reverted_from/>
+        <source>15e8f68d1b7b4010dfa340c6cc4bcb96</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-03-25 12:55:42</sys_created_on>
+        <sys_id>0ae83a8d1b7b4010dfa340c6cc4bcb7c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17111c347bd0000001</sys_recorded_at>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-03-25 12:55:42</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>82e83a8d987b40100a4a7f3ca9eb407c</update_guid>
+        <update_guid_history>82e83a8d987b40100a4a7f3ca9eb407c:1828161538,4ee83a8de47b40107f7c7fde2bff5a78:1429053012,cae83a8d347b40107f69a66724284c75:-1514400100,f63ade0dda3b401054eecf2d6373c5bf:0,b709dac96c3b4010998d5c8196bd3121:1072183755,7709dac99d3b4010afddf27c9072861d:1429053012,f309dac9093b40103a28fdbceeb3b71a:-1514400100,0f338e4deaf7401060b462b6ebf0aac4:0,3b238a4de0f740105a2025995e4f42b5:-1896162750,bb238a4d2ef7401059de706122a6cab1:-1701966180,3b238a4d6af74010136d1a7b139892ae:736548692,b7238a4de8f74010936f9f6b9bc1d7ab:833312879,a18fadb47cbf00104cc42653cd5e4c37:0,2d8fadb4c8bf00106840a38ea77b4c28:833312879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-03-25 12:55:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>50f8fa8d1b7b4010dfa340c6cc4bcb1e</sys_id>
+        <sys_metadata>50f8fa8d1b7b4010dfa340c6cc4bcb1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_request_type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_request_type">0ae83a8d1b7b4010dfa340c6cc4bcb7c</sys_update_version>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-03-25 12:55:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
