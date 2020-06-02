@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_block_lists">
+    <content_block_lists action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <category>general</category>
+        <condition/>
+        <conditional>false</conditional>
+        <frame/>
+        <logged_on>false</logged_on>
+        <maximum_entries>5</maximum_entries>
+        <name>list1</name>
+        <omit_if_empty>false</omit_if_empty>
+        <order>active</order>
+        <order_direction>asc</order_direction>
+        <query/>
+        <script/>
+        <sys_class_name>content_block_lists</sys_class_name>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-04-30 09:19:03</sys_created_on>
+        <sys_id>a3402fe41bec5010dfa340c6cc4bcb56</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>list1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>content_block_lists_a3402fe41bec5010dfa340c6cc4bcb56</sys_update_name>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-04-30 09:20:51</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <title/>
+        <type display_value="dynamic_category_list_style">912943e2ef370000914304167b225676</type>
+    </content_block_lists>
+</record_update>

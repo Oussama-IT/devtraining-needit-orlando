@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="DELETE">
+        <allow_database_view_filter>false</allow_database_view_filter>
+        <allow_extended_table>false</allow_extended_table>
+        <boolean_field>u_what_needed</boolean_field>
+        <boolean_table>x_58872_needit_needit</boolean_table>
+        <date_filter/>
+        <default_boolean_field>true</default_boolean_field>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value/>
+        <description>test</description>
+        <exclusion_choice_list/>
+        <look_up_name>test</look_up_name>
+        <name>test1</name>
+        <reference_conditions/>
+        <reference_table/>
+        <source_field>active</source_field>
+        <source_table>x_58872_needit_needit</source_table>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-04-30 08:53:42</sys_created_on>
+        <sys_id>fe2a5fa01bec5010dfa340c6cc4bcbfd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_fe2a5fa01bec5010dfa340c6cc4bcbfd</sys_update_name>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-04-30 08:55:30</sys_updated_on>
+        <type>6</type>
+        <ui_control_type>2</ui_control_type>
+    </sys_ui_hp_publisher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>06f8ef47dbf67f049df22f17d49619c2</instance_id>
+        <instance_name>dev89256</instance_name>
+        <name>sys_ui_hp_publisher_fe2a5fa01bec5010dfa340c6cc4bcbfd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher"><sys_ui_hp_publisher action="INSERT_OR_UPDATE"><allow_database_view_filter>false</allow_database_view_filter><allow_extended_table>false</allow_extended_table><boolean_field>u_what_needed</boolean_field><boolean_table>x_58872_needit_needit</boolean_table><date_filter/><default_boolean_field>true</default_boolean_field><default_choice/><default_date_filter/><default_reference_field_value/><description>test</description><exclusion_choice_list/><look_up_name>test</look_up_name><name>test1</name><reference_conditions/><reference_table/><source_field>active</source_field><source_table>x_58872_needit_needit</source_table><sys_class_name>sys_ui_hp_publisher</sys_class_name><sys_created_by>$oussama.hamdi</sys_created_by><sys_created_on>2020-04-30 08:53:42</sys_created_on><sys_id>fe2a5fa01bec5010dfa340c6cc4bcbfd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>test1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_hp_publisher_fe2a5fa01bec5010dfa340c6cc4bcbfd</sys_update_name><sys_updated_by>$oussama.hamdi</sys_updated_by><sys_updated_on>2020-04-30 08:55:30</sys_updated_on><type>6</type><ui_control_type>2</ui_control_type></sys_ui_hp_publisher></record_update>]]></payload>
+        <payload_hash>1971374240</payload_hash>
+        <record_name>test1</record_name>
+        <reverted_from/>
+        <source>7109536c1bac5010dfa340c6cc4bcbb8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-04-30 08:55:30</sys_created_on>
+        <sys_id>a62b1fe01bec5010dfa340c6cc4bcb69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ca4c4e110000001</sys_recorded_at>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-04-30 08:55:30</sys_updated_on>
+        <type>Interactive Filter</type>
+        <update_guid>ae2b1fe0e0ec5010e823f46744e5e068</update_guid>
+        <update_guid_history>ae2b1fe0e0ec5010e823f46744e5e068:1971374240,80cad7e0dcec501045f266c7db12ae77:-2050824431</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>$oussama.hamdi</sys_created_by>
+        <sys_created_on>2020-04-30 08:56:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_hp_publisher">sys_ui_hp_publisher</sys_db_object>
+        <sys_id>476f32c7996b44788b11753e19415310</sys_id>
+        <sys_metadata>fe2a5fa01bec5010dfa340c6cc4bcbfd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_hp_publisher_fe2a5fa01bec5010dfa340c6cc4bcbfd</sys_update_name>
+        <sys_update_version display_value="sys_ui_hp_publisher_fe2a5fa01bec5010dfa340c6cc4bcbfd">a62b1fe01bec5010dfa340c6cc4bcb69</sys_update_version>
+        <sys_updated_by>$oussama.hamdi</sys_updated_by>
+        <sys_updated_on>2020-04-30 08:56:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
